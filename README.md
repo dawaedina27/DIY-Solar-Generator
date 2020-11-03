@@ -1,4 +1,5 @@
 #DIY Solar Generator
+
 A DIY solar generator is a self-contained and portable mini-power plant that you can use to power and charge your gadgets and even small appliances and be 100% independent from the grid.
 
 As of 2017, solar energy is the cheapest source of energy in the world and one of the rare few alternative sources that cause no pollution or negative environmental effects.
