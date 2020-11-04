@@ -7,17 +7,17 @@ But apart from being eco-friendly and cheap, solar energy is also incredibly con
 
 #Tools
 
-A set of Phillips, flat and Torx screwdrivers
+A set of Phillips, flat and Torx screwdrivers.
 
-111-240V hot glue gun
+111-240V hot glue gun.
 
-Automatic wire stripper with cutter
+Automatic wire stripper with cutter.
 
-Utility knife
+Utility knife.
 
-Files
+Files.
 
-Cordless drill with drill bits and grinding extensions
+Cordless drill with drill bits and grinding extensions.
 
 
 
