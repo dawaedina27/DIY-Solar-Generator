@@ -2,13 +2,19 @@
 
 A DIY solar generator is a self-contained and portable mini-power plant that you can use to power and charge your gadgets and even small appliances and be 100% independent from the grid.
 
-As of 2017, solar energy is the cheapest source of energy in the world and one of the rare few alternative sources that cause no pollution or negative environmental effects.
-
-Solar energy users worldwide save the planet 75 million barrels of crude oil each year, which is a huge step in making our planet green again.
-
 But apart from being eco-friendly and cheap, solar energy is also incredibly convenient — you can access it everywhere and use it any time, even at night.
 
-Parts and Components
+#Tools
+
+A set of Phillips, flat and Torx screwdrivers
+111-240V hot glue gun
+Automatic wire stripper with cutter
+Utility knife
+Files
+Cordless drill with drill bits and grinding extensions
+
+
+#Parts and Components
 
 Rugged case — You need a waterproof, weatherproof, and above all sturdy casing that will hold all the vital parts.
 
@@ -19,3 +25,22 @@ AC solar power inverter — With a solar power inverter, you transform the DC vo
 Solar panel — The solar panel absorbs the sun’s energy and supplies it to the battery. Your panel will be one of the most exposed elements of the generator, so it needs to be high-quality and durable as well.
 
 Battery — Your generator needs a battery to store solar energy. Batteries come in all shapes and sizes, but your best shot is either a lithium-ion or deep-cycle lead-acid battery.
+
+Solar charge controller — This component prevents your battery from overcharging by regulating the voltage and current levels coming from the solar panel.
+
+
+#Steps/ Instructions on Building a DIY Solar Generator
+
+Calculate Your Energy Needs. Take a look at your energy bill if you're building the system for use in your home. ...
+Choose Your Supplies Carefully. ...
+Test the Parts. ...
+Mount Your Components. ...
+Wire Everything Together. ...
+Plug in Your Devices.
+
+Battery maintainer — A battery maintainer is a small battery charger that supplies your battery with a small amount of electricity when it stays inactive for long periods.
+
+AC power inlet — This is the external inlet on the hard case.
+
+LED flood light — Fit your generator with powerful and reliable LED floodlights so you can use it as a light source around your campsite, boat, etc., or during a power outage at home.
+
