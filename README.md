@@ -4,6 +4,7 @@ A DIY solar generator is a self-contained and portable mini-power plant that you
 
 But apart from being eco-friendly and cheap, solar energy is also incredibly convenient — you can access it everywhere and use it any time, even at night.
 
+
 #Tools
 
 A set of Phillips, flat and Torx screwdrivers
@@ -17,6 +18,8 @@ Utility knife
 Files
 
 Cordless drill with drill bits and grinding extensions
+
+
 
 
 #Parts and Components
@@ -33,6 +36,13 @@ Battery — Your generator needs a battery to store solar energy. Batteries come
 
 Solar charge controller — This component prevents your battery from overcharging by regulating the voltage and current levels coming from the solar panel.
 
+Battery maintainer — A battery maintainer is a small battery charger that supplies your battery with a small amount of electricity when it stays inactive for long periods.
+
+AC power inlet — This is the external inlet on the hard case.
+
+LED flood light — Fit your generator with powerful and reliable LED floodlights so you can use it as a light source around your campsite, boat, etc., or during a power outage at home.
+
+
 
 #Steps/ Instructions on Building a DIY Solar Generator
 
@@ -43,9 +53,7 @@ Mount Your Components. ...
 Wire Everything Together. ...
 Plug in Your Devices.
 
-Battery maintainer — A battery maintainer is a small battery charger that supplies your battery with a small amount of electricity when it stays inactive for long periods.
 
-AC power inlet — This is the external inlet on the hard case.
 
-LED flood light — Fit your generator with powerful and reliable LED floodlights so you can use it as a light source around your campsite, boat, etc., or during a power outage at home.
+
 
