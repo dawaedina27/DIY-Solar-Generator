@@ -43,7 +43,7 @@ It needs a Rugged Case which is fitted with several rugged handles, as well as a
 
 #Steps/ Instructions on Building a DIY Solar Generator
 
-$ Calculate Your Energy Needs. Take a look at your energy bill if you're building the system for use in your home.
+< Calculate Your Energy Needs. Take a look at your energy bill if you're building the system for use in your home.
 
 ^ Choose Your Supplies Carefully.
 
