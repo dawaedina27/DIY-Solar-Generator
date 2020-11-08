@@ -2,27 +2,25 @@
 
 A DIY solar generator is a self-contained and portable mini-power plant that you can use to power and charge your gadgets and even small appliances and be 100% independent from the grid.
 
-But apart from being eco-friendly and cheap, solar energy is also incredibly convenient — you can access it everywhere and use it any time, even at night.
-
 
 #Tools
 
-A set of Phillips, flat and Torx screwdrivers.
+> A set of Phillips, flat and Torx screwdrivers.
 
-111-240V hot glue gun.
+> 111-240V hot glue gun.
 
-Automatic wire stripper with cutter.
+> Automatic wire stripper with cutter.
 
-Utility knife.
+> Utility knife.
 
-Files.
+> Files.
 
-Cordless drill with drill bits and grinding extensions.
-
-
+> Cordless drill with drill bits and grinding extensions.
 
 
-#Parts and Components
+
+
+#Parts and Components (Materials)
 
 Solar panel: The solar panel absorbs the sun’s energy and supplies it to the battery. Your panel will be one of the most exposed elements of the generator, so it needs to be high-quality and durable as well.
 
