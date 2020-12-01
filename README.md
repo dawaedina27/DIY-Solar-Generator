@@ -43,13 +43,26 @@ It needs a Rugged Case which is fitted with several rugged handles, as well as a
 
 #Steps/ Instructions on Building a DIY Solar Generator
 
-** Calculate Your Energy Needs. Take a look at your energy bill if you're building the system for use in your home.
+Now that you have all your equipment and tools it’s time to build a Diy solar generator for your own. As building a solar generator isn’t the kind of project that just anyone can handle, but if you’re handy and interested, it’s a great way to get better energy efficiency and protection at a better price than ready-made systems.
 
-** Choose Your Supplies Carefully.
+The basic process to create your own panel consists of the following procedures.
+
+** Calculate Your Energy Needs. Take a look at your energy bill if you're building the system for use in your home.
 
 ** Test the Parts.
 
 ** Mount Your Components. 
+                        > Set out all elements. Then find a spot you’d like to place your inverter to get an easy access. 
+                         
+                        > Once you’ve selected your spot, drill a hole underneath the inverter, pass your wire through the hole and intothe                           cooler, and put Velcro just above that spot to secure your inverter in position.
+                         
+                        > Once you have a voltage meter, make room for it and do the same thing ideally next to the inverter. 
+                        
+                        > Then add your battery to your inverter for electricity. First add the negative post, then the positive one. In the                           corner put the battery in the cooler, and velcro back.
+                        
+                        > Drill another hole in the top of your cooler by your other components, and set down velcro for the charge controller. Now, run the outgoing wires through the hole, and connect to the battery using the above directions.
+Drill a hole on the side of the controller to run the solar panel’s cord into.
+Find a spot for your solar panel to be set up. Place the panel towards the sun and attach the cord to the charging controller within your “device.” Allow the battery to charge at least 50 percent. Now you are able to use the generator to fuel the inverter.
 
 ** Wire Everything Together.
 
