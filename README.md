@@ -26,6 +26,7 @@ A DIY solar generator is a self-contained and portable mini-power plant that you
 
 * Rugged case: You need a waterproof, weatherproof, and above all sturdy casing that will hold all the vital parts.
 It needs a Rugged Case which is fitted with several rugged handles, as well as a pair of rolling wheels eg "Pelican 1620 Case"
+![](/DIY/CASE.jpg)
 
 * AC solar power inverter: With a solar power inverter, you transform the DC voltage that is stored in your battery into AC voltage that appliances use.
 
