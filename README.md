@@ -69,6 +69,7 @@ The basic process to create your own panel consists of the following procedures.
 ** Test the Parts.
 
 ** Mount Your Components. 
+
          > Set out all elements. Then find a spot you’d like to place your inverter to get an easy access. 
                          
          > Once you’ve selected your spot, drill a hole underneath the inverter, pass your wire through the hole and intothe                           cooler, and put Velcro just above that spot to secure your inverter in position.
