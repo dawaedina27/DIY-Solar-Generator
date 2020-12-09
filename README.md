@@ -60,7 +60,7 @@ It needs a Rugged Case which is fitted with several rugged handles, as well as a
 
 #Steps/ Instructions on Building a DIY Solar Generator
 
-Now that you have all your equipment and tools it’s time to build a Diy solar generator for your own. As building a solar generator isn’t the kind of project that just anyone can handle, but if you’re handy and interested, it’s a great way to get better energy efficiency and protection at a better price than ready-made systems.
+Now that you have all your equipment and tools it’s time to build a Diy solar generator on your own. 
 
 The basic process to create your own panel consists of the following procedures.
 
